@@ -115,4 +115,4 @@ const ComplaintHistory = () => {
   );
 };
 
-export default ComplaintHistory;
+export default ComplaintHistory;  
