@@ -133,7 +133,7 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 * **Okechukwu Chiemerie Victor** – *Requirement Engineer*
 * **Okafor Kosisoichukwu** - *Second Requiremnt Engineer*
 * **Obogho Ewomazino Karen**
-* **Obiazikwor favour EKENEDILICHUKWU**
+* **Obiazikwor favour EKENEDILICHUKWU*UI/UX DESINGER*
 ---
 
 ## 📜 License
